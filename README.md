@@ -63,5 +63,6 @@ Your Shopping List:
 -Developing a menu-driven application.
 
 ## Author
+**Nandhini G.**
 
-Student Case Study Project
+Second-Year Computer Science and Engineering Student
